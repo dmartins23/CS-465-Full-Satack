@@ -1,1 +1,1 @@
-# CS-465-Full-Satack
+# CS-465-Full-Stack
